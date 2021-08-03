@@ -12,19 +12,6 @@
 |김정혁|@wjdgur778|
 |이현식|@yoseb804|
 
-<<<<<<< HEAD
-
-
-## 💻 타임 테이블
-|시간|내용|
-|------|---|
-|10:00 ~ 10:30|알고리즘 과제 및 CS 주제 선정|
-|10:30 ~ 17:00|과제 해결|
-|17:00 ~ 18:00|CS 학습내용 공유|
-|21:00 ~ 22:00|알고리즘 코드리뷰|
-
-=======
->>>>>>> afbe7bb849c4daaf13692a851300874b6fdd0315
 ## 📚 알고리즘 Study
 - Daily 과제
 - Java 소스파일
@@ -33,7 +20,7 @@
 학습주제는 
 [gyoogle][googlelink]을 참고했습니다.
 
-[googlelink]: https://github.com/gyoogle/tech-interview-for-developer 
+[googlelink]: https://github.com/gyoogle/tech-interview-for-developer
 
 
 ## 📌 개발상식
