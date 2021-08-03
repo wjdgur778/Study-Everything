@@ -25,7 +25,7 @@
 - Java 소스파일
 
 # 학습 주제
-학습주제는 gyoogle을 참고했습니다.
+학습주제는 [gyoogle]: https://github.com/gyoogle/tech-interview-for-developer 을 참고했습니다.
 
 ## 📌 개발상식
 - 클린코드 & 리팩토링 & 시큐어코딩
