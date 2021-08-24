@@ -105,6 +105,9 @@
 - 계수 정렬(Count Sort)
 - 비트마스크(BitMask)
 - 이분 탐색(Binary Search)
+- 다익스트라 알고리즘(Dijkstra algorithm)
+- 프림 알고리즘(Prim algorithm)
+- 크루스칼 알고리즘(Kruskal algorithm)
 - 세그먼트 트리
 - 해시(Hash)
 - DFS & BFS
