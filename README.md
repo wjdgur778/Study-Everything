@@ -140,9 +140,6 @@
 - Closure
 - this
 - Promise
-- ECMAScript6(=ES6)
->>>>>>> 5d97520f37ef58c426c2907ecf91cf13f5fcb7c0
-
 ## 📌 Web
 - HTTP Method
 - RESTFul API 란?
